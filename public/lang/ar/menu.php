@@ -1,0 +1,1 @@
+<?php return ["menuone"=>"مخيم","menutwo"=>"الخبرات","menuthree"=>"الأحداث","menufour"=>"عن درب العربية","menufive"=>"الصور","menusix"=>"","menuseven"=>"Sustainability","menueight"=>"عروض خاصة","menunine"=>"الورقة","menuten"=>"The Leaf Accommodation","menueleven"=>"الفعاليات الخاصة","menutwelve"=>"الفعاليات المؤسسية",];

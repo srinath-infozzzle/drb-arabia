@@ -1,0 +1,1 @@
+<?php return ["menuone"=>"Camps","menutwo"=>"Experiences","menuthree"=>"Events","menufour"=>"About DRB Arabia","menufive"=>"Gallery","menusix"=>"FAQ","menuseven"=>"Sustainability","menueight"=>"Special Offers","menunine"=>"The Leaf","menuten"=>"The Leaf Accommodation","menueleven"=>"Events Private","menutwelve"=>"Events Corporate",];

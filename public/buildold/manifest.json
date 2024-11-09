@@ -1,0 +1,124 @@
+{
+  "resources/assets/img/about-img.jpg": {
+    "file": "assets/about-img-BxQlTY8_.jpg",
+    "src": "resources/assets/img/about-img.jpg"
+  },
+  "resources/assets/img/arrow-left.svg": {
+    "file": "assets/arrow-left-3oT9xkce.svg",
+    "src": "resources/assets/img/arrow-left.svg"
+  },
+  "resources/assets/img/arrow-right.svg": {
+    "file": "assets/arrow-right-wSSfMlx1.svg",
+    "src": "resources/assets/img/arrow-right.svg"
+  },
+  "resources/assets/img/event-01.png": {
+    "file": "assets/event-01-B-0OFgsp.png",
+    "src": "resources/assets/img/event-01.png"
+  },
+  "resources/assets/img/event-02.png": {
+    "file": "assets/event-02-CdC9KYcD.png",
+    "src": "resources/assets/img/event-02.png"
+  },
+  "resources/assets/img/experiences-img.png": {
+    "file": "assets/experiences-img-f_rO7zJ5.png",
+    "src": "resources/assets/img/experiences-img.png"
+  },
+  "resources/assets/img/footer-img.png": {
+    "file": "assets/footer-img-QQMnvSZX.png",
+    "src": "resources/assets/img/footer-img.png"
+  },
+  "resources/assets/img/hover-1.jpg": {
+    "file": "assets/hover-1-rL4I4AZ8.jpg",
+    "src": "resources/assets/img/hover-1.jpg"
+  },
+  "resources/assets/img/hover-2.jpg": {
+    "file": "assets/hover-2-BPAczfkn.jpg",
+    "src": "resources/assets/img/hover-2.jpg"
+  },
+  "resources/assets/img/hover-3.png": {
+    "file": "assets/hover-3-DQQyP4HX.png",
+    "src": "resources/assets/img/hover-3.png"
+  },
+  "resources/assets/img/icons/globe-icon.svg": {
+    "file": "assets/globe-icon-BFAQoFSJ.svg",
+    "src": "resources/assets/img/icons/globe-icon.svg"
+  },
+  "resources/assets/img/leaf-01.png": {
+    "file": "assets/leaf-01-BR7YgKbg.png",
+    "src": "resources/assets/img/leaf-01.png"
+  },
+  "resources/assets/img/leaf-02.png": {
+    "file": "assets/leaf-02-63dXka89.png",
+    "src": "resources/assets/img/leaf-02.png"
+  },
+  "resources/assets/img/leaf-03.png": {
+    "file": "assets/leaf-03-CWgOluDo.png",
+    "src": "resources/assets/img/leaf-03.png"
+  },
+  "resources/assets/img/leaf-04.png": {
+    "file": "assets/leaf-04-BB1yOQr2.png",
+    "src": "resources/assets/img/leaf-04.png"
+  },
+  "resources/assets/img/leaf-05.png": {
+    "file": "assets/leaf-05-DRM4ArE_.png",
+    "src": "resources/assets/img/leaf-05.png"
+  },
+  "resources/assets/img/quote-img.png": {
+    "file": "assets/quote-img-D1UZfFL0.png",
+    "src": "resources/assets/img/quote-img.png"
+  },
+  "resources/assets/img/slider/slider-01.jpg": {
+    "file": "assets/slider-01-5AN5OJ_q.jpg",
+    "src": "resources/assets/img/slider/slider-01.jpg"
+  },
+  "resources/assets/img/slider/slider-02.jpg": {
+    "file": "assets/slider-02-BglS3qW6.jpg",
+    "src": "resources/assets/img/slider/slider-02.jpg"
+  },
+  "resources/assets/img/slider/slider-03.jpg": {
+    "file": "assets/slider-03-DsnfEw0M.jpg",
+    "src": "resources/assets/img/slider/slider-03.jpg"
+  },
+  "resources/assets/img/slider/slider-04.jpg": {
+    "file": "assets/slider-04-TQLHM9df.jpg",
+    "src": "resources/assets/img/slider/slider-04.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DuHIdXWU.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-BaFBgiBP.css"
+    ],
+    "assets": [
+      "assets/globe-icon-BFAQoFSJ.svg",
+      "assets/leaf-01-BR7YgKbg.png",
+      "assets/leaf-02-63dXka89.png",
+      "assets/leaf-03-CWgOluDo.png",
+      "assets/leaf-04-BB1yOQr2.png",
+      "assets/leaf-05-DRM4ArE_.png",
+      "assets/event-01-B-0OFgsp.png",
+      "assets/event-02-CdC9KYcD.png",
+      "assets/experiences-img-f_rO7zJ5.png",
+      "assets/hover-1-rL4I4AZ8.jpg",
+      "assets/hover-2-BPAczfkn.jpg",
+      "assets/hover-3-DQQyP4HX.png",
+      "assets/about-img-BxQlTY8_.jpg",
+      "assets/quote-img-D1UZfFL0.png",
+      "assets/footer-img-QQMnvSZX.png",
+      "assets/slider-01-5AN5OJ_q.jpg",
+      "assets/slider-02-BglS3qW6.jpg",
+      "assets/slider-03-DsnfEw0M.jpg",
+      "assets/slider-04-TQLHM9df.jpg",
+      "assets/arrow-left-3oT9xkce.svg",
+      "assets/arrow-right-wSSfMlx1.svg"
+    ]
+  }
+}

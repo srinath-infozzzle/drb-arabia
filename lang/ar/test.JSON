@@ -1,0 +1,69 @@
+[{
+    "en": {
+        "footercolumn": {
+            "column1": {
+                "name": "Camp Links",
+                "footertext_1": "test1",
+                "footerlink_1": "tet",
+                "footertext_2": "Main page",
+                "footerlink_2": "mainpage",
+                "linkcount": "2"
+            },
+            "column2": {
+                "name": "test link",
+                "footertext_1": "Test page",
+                "footerlink_1": "Test page",
+                "linkcount": "1"
+            },
+            "column3": {
+                "name": "Experiences",
+                "linkcount": "0"
+            },
+            "column4": {
+                "name": "Events",
+                "linkcount": "0"
+            },
+            "column5": {
+                "name": "Other",
+                "linkcount": "0"
+            }
+        }
+    }
+},
+
+
+{
+    "en": {
+        "footercolumn": {
+            "column1": {
+                "name": "Camp Links",
+                "footertext_1": "test1",
+                "footerlink_1": "tet",
+                "footertext_2": "Main page",
+                "footerlink_2": "mainpage",
+                "linkcount": "2"
+            },
+            "column2": {
+                "name": "test link",
+                "footertext_1": "Test page",
+                "footerlink_1": "Test page",
+                "linkcount": "1"
+            },
+            "column3": {
+                "name": "Experiences",
+                "linkcount": "0"
+            },
+            "column4": {
+                "name": "Events",
+                "linkcount": "0"
+            },
+            "column5": {
+                "name": "Other4",
+                "footertext_1": "test4",
+                "footerlink_1": "test4",
+                "linkcount": "1"
+            }
+        }
+    }
+}
+]

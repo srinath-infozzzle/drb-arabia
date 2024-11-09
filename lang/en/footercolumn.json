@@ -1,0 +1,24 @@
+ {
+    "column1": {
+      "name": "Camps",
+      "linkcount": "0"
+    },
+    "column2": {
+      "name": "Experiences",
+      "linkcount": "0"
+    },
+    "column3": {
+      "name": "Events",
+      "linkcount": "0"
+    },
+    "column4": {
+      "name": "About us",
+      "footertext_1": "test",
+      "footerlink_1": "test",
+      "linkcount": "1"
+    },
+    "column5": {
+      "name": "Gallery",
+      "linkcount": "0"
+    }
+  }

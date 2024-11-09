@@ -1,0 +1,42 @@
+{
+    "column1": {
+      "name": "Column 1",
+      "linkcount":"4",
+      "item1": "Item 1 Description",
+      "item2": "Item 2 Description",
+      "item3": "Item 3 Description",
+      "item4": "Item 4 Description"
+    },
+    "column2": {
+      "name": "Column 2",
+      "linkcount":"4",
+      "item1": "Item 1 Detail",
+      "item2": "Item 2 Detail",
+      "item3": "Item 3 Detail",
+      "item4": "Item 4 Detail"
+    },
+    "column3": {
+      "name": "Column 3",
+      "linkcount":"4",
+      "item1": "Item 1 Info",
+      "item2": "Item 2 Info",
+      "item3": "Item 3 Info",
+      "item4": "Item 4 Info"
+    },
+    "column4": {
+      "name": "Column 4",
+      "linkcount":"4",
+      "item1": "Item 1 Note",
+      "item2": "Item 2 Note",
+      "item3": "Item 3 Note",
+      "item4": "Item 4 Note"
+    },
+    "column5": {
+      "name": "Column 5",
+      "linkcount":"4",
+      "item1": "Item 1 Remark",
+      "item2": "Item 2 Remark",
+      "item3": "Item 3 Remark",
+      "item4": "Item 4 Remark"
+    }
+  }
